@@ -4,8 +4,8 @@
 }
 h1 {
     text-align: center;
-    background-color: rgb(45, 87, 155);
-    color: #fff;
+    background-color: rgb(96, 45, 155);
+    color: rgb(236, 23, 15);
     font-size: 5vw;
 }
 form {
@@ -41,7 +41,7 @@ button
 #chats dt
 {
     margin: 2vw 0;
-    border:1px solid #333;
+    border:1px solid rgb(43, 9, 83);
     border-radius:3vw;
     padding:1vw 3vw;
     display: inline-block;
@@ -50,7 +50,7 @@ button
 {
     margin-left: 8vw;
     position: relative;
-    background-color:#ccc;
+    background-color:rgb(204, 204, 204);
     border-radius:3vw;
     padding:1vw 3vw;
 }
